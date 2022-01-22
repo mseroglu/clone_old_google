@@ -1,0 +1,41 @@
+html {font-size: larger;}
+input {
+    /* border: inset; */
+    border-color:rgb(77, 197, 197);
+    font-size: 18px;
+    height: 25px;
+}
+
+
+header {margin: auto;}
+body {    
+    /* padding: 10px 100px; */
+    margin: 0px 100px;
+    align-items:center;}
+
+section {padding: auto; margin: 0px;}
+div {
+    margin: 5px;
+}
+
+.box_ust {    
+    width: auto;
+    height:max-content;
+    padding: 5px;
+    margin: 0px 5px;
+    float: left;
+    align-items: center;
+    
+    background-color: #EEEEEE;}
+
+.box_alt {
+    /* width: 600;  */
+    width:29%;
+    height: 180px;
+    padding: 5px;
+    margin: 0px 5px;
+    float: left;
+    /* align-items: center; */
+    vertical-align:top;
+    
+}
